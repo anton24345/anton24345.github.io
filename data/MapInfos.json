@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"expanded":false,"name":"Outside_House","order":1,"parentId":0,"scrollX":1638,"scrollY":922},
+{"id":2,"expanded":false,"name":"Outside_School","order":2,"parentId":0,"scrollX":1638,"scrollY":922},
+{"id":3,"expanded":true,"name":"Boulderpass","order":3,"parentId":0,"scrollX":1638,"scrollY":922},
+{"id":4,"expanded":true,"name":"Boulder Dungeon","order":5,"parentId":5,"scrollX":1638,"scrollY":922},
+{"id":5,"expanded":true,"name":"Forest Trail","order":4,"parentId":0,"scrollX":1638,"scrollY":922},
+{"id":6,"expanded":false,"name":"debug room","order":7,"parentId":7,"scrollX":655.2,"scrollY":368.8},
+{"id":7,"expanded":false,"name":"Forest dungeon","order":6,"parentId":4,"scrollX":3178,"scrollY":1310},
+{"id":8,"expanded":true,"name":"atown","order":8,"parentId":0,"scrollX":1638,"scrollY":922},
+{"id":9,"expanded":false,"name":"Inn","order":9,"parentId":8,"scrollX":1638,"scrollY":922},
+{"id":10,"expanded":false,"name":"shop","order":10,"parentId":8,"scrollX":655.2,"scrollY":368.8}
+]

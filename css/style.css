@@ -1,0 +1,44 @@
+* {
+  font-family: arial;
+}
+
+div {
+  border-style: solid;
+  margin: 2px;
+  padding: 4px;
+}
+
+#content {
+  background-color: #a3d6ce;
+  background-image: url("https://i2.wp.com/divisionheaven.me/wp-content/uploads/2017/09/bonus_harold.png?ssl=1")
+}
+
+#headerBox {
+  background-color: #63b0e0;
+  ;
+  padding-left: 40px;
+  text-shadow: 2px 2px cyan;
+}
+
+#linksBox {
+  background-color: #61a8d4;
+}
+
+#parasBox {
+  background-color: #cyan;
+  width: 50%;
+  height: 895px;
+  padding-left: 900px;
+}
+
+.para {
+  background-color:
+    #6cd4c3;
+  border-style: dashed;
+  border-width: 10px;
+  border-color: #a3d952;
+}
+
+body {
+  background-color: cyan;
+}
